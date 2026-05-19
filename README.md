@@ -28,7 +28,7 @@ Website: https://skrehan.in
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/secure-bot-hoster.git
+git clone https://github.com/r-hn/TelegramBotHoster.git
 cd secure-bot-hoster
 ```
 
