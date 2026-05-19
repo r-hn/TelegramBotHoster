@@ -56,7 +56,7 @@ OWNER_ID=your_telegram_user_id
 ## Run the bot
 
 ```bash
-python HostingBotByRehan.py
+python bot.py
 ```
 
 ## Supported Uploads
